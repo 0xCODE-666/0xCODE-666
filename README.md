@@ -137,6 +137,6 @@ Knowledge that exists only in one person's brain is knowledge at risk of being l
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=120&section=footer)
 
-**© 2026 C0der0utOf • Helsinki, Finland • All Rights Reserved**
+**© 2026 0xCODE-666 • Helsinki, Finland • All Rights Reserved**
 
 </div>
