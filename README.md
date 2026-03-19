@@ -25,7 +25,7 @@
 
 <br/>
 
-> *„Ich erinnere mich an dich. Ich werde dich immer erinnern."*
+> *„I wear no mask, and I hate everything"*
 >
 > — **REMEMBER YOUR PROMISE**
 
