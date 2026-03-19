@@ -221,7 +221,7 @@ TRANSMISSION LOG — OPEN REPOSITORIES
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-0a0000?style=for-the-badge&logo=github&logoColor=8b0000)](https://github.com/0xNullVector)
-[![Twitter](https://img.shields.io/badge/TWITTER_/_X-0a0000?style=for-the-badge&logo=x&logoColor=8b0000)](https://twitter.com/YOUR_TWITTER)
+[![Twitter](https://img.shields.io/badge/TWITTER_/_X-0a0000?style=for-the-badge&logo=x&logoColor=8b0000)](https://x.com/cforcybersec)
 [![Email](https://img.shields.io/badge/SIGNAL_CHANNEL-0a0000?style=for-the-badge&logo=protonmail&logoColor=8b0000)](mailto:C0der0utOf@proton.me)
 
 </div>
