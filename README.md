@@ -25,7 +25,7 @@
 
 <br/>
 
-> *„I wear no mask, and I hate everything"*
+> *„Its Time for this to end... Du hast es versprochen"*
 >
 > — **REMEMBER YOUR PROMISE**
 
