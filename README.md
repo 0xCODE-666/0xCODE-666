@@ -151,8 +151,8 @@ f19a831  [research] DKOM walk — hiding from eBPF-based EDRs
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=ff0000&icon_color=ff4444&text_color=c9d1d9&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xNullVector&show_icons=true&theme=github_dark&hide_border=true&title_color=ff0000&icon_color=ff4444&text_color=c9d1d9&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNullVector&layout=compact&theme=github_dark&hide_border=true&title_color=ff0000&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
