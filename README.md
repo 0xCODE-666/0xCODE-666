@@ -39,21 +39,21 @@ uid=0(root) gid=0(root) groups=0(root),1337(elite)
 
 ## `ls -la ~/research`
 
-### 🔻 Kernel & Rootkit Development
+### Kernel & Rootkit Development
 - **LKM Rootkits** — Linux Kernel Module–based persistence, process hiding, file cloaking, syscall hooking via `ftrace` / direct DKOM
 - **DKOM Manipulation** — Direct Kernel Object Manipulation for hiding processes from `ps`, `top`, `/proc`
 - **Syscall Hooking** — `sys_call_table` patching, `kprobes`, `ftrace`-based inline hooks
 - **eBPF Offensive Use** — Weaponising eBPF for stealthy keylogging, network sniffing, and evasion
 - **Bootkit Research** — UEFI-level persistence, EFI runtime service hooks
 
-### 🔻 Exploit Development
+### Exploit Development
 - **Linux ELF Exploitation** — Stack/heap overflow, ROP chains, FSOP, off-by-one, format string
 - **Windows Kernel Exploits** — IOCTL abuse, pool corruption, token privilege escalation
 - **Browser Exploitation** — JIT spraying, type confusion, sandbox escape primitives
 - **Bypassing Mitigations** — KASLR/ASLR/PIE bypass, SMEP/SMAP/NX evasion, CFG/CET bypass
 - **CVE Research** — Vulnerability discovery via fuzzing and manual source/binary auditing
 
-### 🔻 Malware & Implants
+### Malware & Implants
 - **C2 Implants** — Custom beacons with encrypted comms, jitter, and malleable profiles
 - **Persistence Mechanisms** — Scheduled tasks, COM hijacking, registry, WMI subscriptions, bootloaders
 - **AV/EDR Evasion** — Syscall unhooking, PPID spoofing, process injection (APC, hollowing, stomping)
